@@ -2,5 +2,6 @@
 
 - 19 yo
 - AI Software developer wannabe
-- Python && Java
+- \[Python, Java]
+- \[TailwindCss, AstroJs]
 - Obsidian enjoyer
