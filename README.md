@@ -5,3 +5,5 @@
 - \[Python, Java]
 - \[TailwindCss, AstroJs]
 - Obsidian enjoyer
+- ENG 🇬🇧
+- ES 🇪🇸
