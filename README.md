@@ -1,8 +1,8 @@
 > No human is perfect, but I am not human.
 
 - 20 yo
-- AI Software developer wannabe
-- Lang: \[Python, Java, Rust]
+- Kernel developer wannabe
+- Lang: \[Python, Java, C, C++]
 - Web: \[TailwindCss, AstroJs, Angular]
 - Obsidian enjoyer
 - ENG 🇬🇧
